@@ -58,7 +58,8 @@ Comparison of segmentation results with ground truth:
 **Ground Truth vs Algorithm Output:**
 
 ![Ground Truth](ground_truth(1).png)
-![Algorithm Output](algorithm_output(1).png)
+
+![Algorithm Output](algorithm_output (1).png)
 
 ## Conclusion
 The developed system successfully segments and classifies 3D point cloud data into distinct object categories using a combination of RANSAC, DBSCAN, and geometric analysis. The approach demonstrates high efficiency in recognizing large structures like roads and buildings while facing challenges with smaller objects like trees and vehicles.
